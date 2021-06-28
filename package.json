@@ -2,6 +2,7 @@
   "dependencies": {
     "nodemon": "1.0.0",
     "apollo-server": "2.13.1",
-    "color-string": "1.5.4"
+    "color-string": "1.5.4",
+    "debug": "1.0.5"
   }
 }
